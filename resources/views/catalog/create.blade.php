@@ -21,7 +21,7 @@
 
 	            <div class="form-group">
 	            	<label for="title">A&ntilde;o</label>
-	               <input type="number" name="year" id="year">
+	               <input type="number" name="year" id="year" class="form-control">
 	            </div>
 
 	            <div class="form-group">
